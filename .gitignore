@@ -1,0 +1,9 @@
+vendor/
+web/core/
+web/libraries/
+web/modules/contrib/
+web/themes/contrib/
+web/sites/default/files/
+web/sites/default/settings.php
+.ddev/
+*.log

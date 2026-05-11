@@ -1,0 +1,5 @@
+name: 'Headless Blog'
+type: module
+description: 'Creates Blog Post content type for headless Drupal demo.'
+package: Custom
+core_version_requirement: ^10 || ^11
